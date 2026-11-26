@@ -42,6 +42,9 @@ A identidade visual da Camis GameDev é estruturada em torno de 3 temas principa
 * **Botões:** Bordas bem arredondadas (estilo *pill* `border-radius: 9999px` ou `16px` a `24px`).
 * **Cards e Contêineres:** Cantos arredondados generosos (`border-radius: 16px` a `24px` / squircle), criando uma estética amigável, moderna e tátil.
 
+### 🌈 Cores
+Seguir rigorosamente a palheta de cor dos assets da marca.
+
 ### 🔗 Assinatura Oficial no Rodapé
 Todas as aplicações, landing pages e telas desenvolvidas incluem obrigatoriamente a assinatura oficial no rodapé:
 ```text
